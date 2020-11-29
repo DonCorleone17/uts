@@ -1,0 +1,10 @@
+LOGIN PASS
+
+Username : Rizky Orama Corleone
+Password : rizkyorama
+
+Username : Quentin Tarantino
+Password : quentintarantino
+
+Client : http://localhost/uts/client/index
+Admin : http://localhost/uts/admin/adminindex
